@@ -5,3 +5,7 @@ Depois de 4 meses de estudos fortes em React e seus fermeworks e libs (como reac
 ## Primeiros passos.
 
 Apenas criei meu projeto no gutHub e usei o npm para criar um projeto NextJs.
+
+## Rotas.
+
+A criação de outras rotas no Next, e bem mais facil que no rauter, apenas criar umas pasta, a documentação do Next e muito boa e intuitiva
