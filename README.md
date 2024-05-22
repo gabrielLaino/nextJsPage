@@ -9,3 +9,7 @@ Apenas criei meu projeto no gutHub e usei o npm para criar um projeto NextJs.
 ## Rotas.
 
 A criação de outras rotas no Next, e bem mais facil que no rauter, apenas criar umas pasta, a documentação do Next e muito boa e intuitiva
+
+## Props
+
+A tipagem e um pouco diferente, a props precisam de uma passo amais que o react para typar
