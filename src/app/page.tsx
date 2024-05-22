@@ -1,7 +1,12 @@
+import Title from "@/components/Title";
 import Image from "next/image";
+import Link from "next/link";
 
 export default function Home() {
   return (
-    <h1>minha primeira pagina em nextJS</h1>
+    <div>
+      <Title value="minha primeira pagina em NextJs"/>
+      <Link href='sobre'>Ir para a pagina Sobre</Link>
+    </div>
   );
 }

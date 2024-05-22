@@ -1,6 +1,12 @@
+import Title from "@/components/Title"
+import Link from "next/link"
+
 function Sobre() {
   return (
-    <h1>sobre a pagina</h1>
+    <div>
+      <Title value="ir para a pagina sobre"/>
+      <Link href='/'>Ir para a hoe page</Link>
+    </div>
   )
 }
 
