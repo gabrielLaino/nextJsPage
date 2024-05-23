@@ -1,5 +1,6 @@
 "use client";
 import Title from "@/components/Title"
+import Head from "next/head";
 import Link from "next/link"
 import { useEffect, useState } from "react"
 type QuestoesType = {
@@ -21,6 +22,10 @@ export default async function Sobre() {
 
   return (
     <div>
+       <Head>
+        <title>Home - Page NextJs</title>
+        <meta name="description" content="Home page description" />
+      </Head>
       <Title value="Ir para a página sobre" />
       <Link href="/">Ir para a home page</Link>
       {questoes.map((questao, index) => (

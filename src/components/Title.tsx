@@ -1,3 +1,4 @@
+import  Head  from 'next/head';
 import { FC } from 'react';
 
 type TitleType = {
@@ -6,7 +7,9 @@ type TitleType = {
 
 const Title: FC<TitleType> = ({ value }) => {
   return (
-    <h1>{value}</h1>
+    <>
+     <h1>{value}</h1>
+    </>
   );
 }
 

@@ -17,3 +17,7 @@ A tipagem e um pouco diferente, a props precisam de uma passo amais que o react 
 ## Hooks
 
 Por algum motivo temos que usar "use client", para a pagina usar as hooks do React vanila. de resto e igual
+
+## conclusão
+
+Esse primeiro projeto foi legal aprendi muito, e me enrolei em varias coisas mais daqui para frente melhora 
