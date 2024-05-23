@@ -13,3 +13,7 @@ A criação de outras rotas no Next, e bem mais facil que no rauter, apenas cria
 ## Props
 
 A tipagem e um pouco diferente, a props precisam de uma passo amais que o react para typar
+
+## Hooks
+
+Por algum motivo temos que usar "use client", para a pagina usar as hooks do React vanila. de resto e igual
